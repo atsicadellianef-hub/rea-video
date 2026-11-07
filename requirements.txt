@@ -1,0 +1,2 @@
+pillow>=9.0
+faster-whisper>=1.0  # 可选：台词转写
